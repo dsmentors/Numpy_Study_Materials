@@ -1,4 +1,5 @@
-**Numpy Interview Questions******
+**Numpy Interview Questions**
+
     1. What is Numpy?
     2.  Why NumPy is used in Python?
     3.   What does NumPy mean in Python?
@@ -25,7 +26,9 @@
     24.   How do you create a 3D array?
     25.  How can you identify the datatype of a given NumPy array?
     26. Why NumPy is faster than list?
+    
 **Questions on NumPy Array**
+
     1. How to create an empty and a full NumPy array?
     2. Create a Numpy array filled with all zeros
     3. Create a Numpy array filled with all ones

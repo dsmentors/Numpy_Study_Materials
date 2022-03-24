@@ -1,30 +1,30 @@
 **Numpy Interview Questions**
 
     1. What is Numpy?
-    2.  Why NumPy is used in Python?
-    3.   What does NumPy mean in Python?
-    4.  Where is NumPy used?
-    5.  How to Install Numpy in Windows?
-    6.  How to import numpy in python?
-    7.  how to create 1D Array ?
-    8.  How to create 2D Array ?
-    9.  How to create 3D Array or ND Array ?
-    10.  How to use shape for 1D Array ?
-    11.  How to use shape for 2D Array ?
-    12.   How to use shape for 3d or Nd Array ?
-    13.   How to identified datatype for numpy array?
-    14.  Print 5 zeros with numpy ?
-    15.  print zeros with 2 rows and 3 columns ?
-    16.  use of eye() diagonal values ?
-    17.  use of diag() square matrix ?
-    18.  Print Range Between 1 To 15 and show 4 integers random numbers
-    19.  Print Range Between 1 To 100 and show 4 integers random numbers
-    20.  Print Range Between random number 2 row and 3 cols integers random numbers
-    21.   What Is The Difference Between Numpy And Scipy?
-    22.   What Is The Preferred Way To Check For An Empty (zero Element) Array?
-    23.  List the advantages NumPy Arrays have over (nested) Python lists?
-    24.   How do you create a 3D array?
-    25.  How can you identify the datatype of a given NumPy array?
+    2. Why NumPy is used in Python?
+    3. What does NumPy mean in Python?
+    4. Where is NumPy used?
+    5. How to Install Numpy in Windows?
+    6. How to import numpy in python?
+    7. how to create 1D Array ?
+    8. How to create 2D Array ?
+    9. How to create 3D Array or ND Array ?
+    10.How to use shape for 1D Array ?
+    11.How to use shape for 2D Array ?
+    12. How to use shape for 3d or Nd Array ?
+    13. How to identified datatype for numpy array?
+    14. Print 5 zeros with numpy ?
+    15. print zeros with 2 rows and 3 columns ?
+    16. use of eye() diagonal values ?
+    17. use of diag() square matrix ?
+    18. Print Range Between 1 To 15 and show 4 integers random numbers
+    19. Print Range Between 1 To 100 and show 4 integers random numbers
+    20. Print Range Between random number 2 row and 3 cols integers random numbers
+    21. What Is The Difference Between Numpy And Scipy?
+    22. What Is The Preferred Way To Check For An Empty (zero Element) Array?
+    23. List the advantages NumPy Arrays have over (nested) Python lists?
+    24. How do you create a 3D array?
+    25. How can you identify the datatype of a given NumPy array?
     26. Why NumPy is faster than list?
     
 **Questions on NumPy Array**
